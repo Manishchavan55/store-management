@@ -1,0 +1,23 @@
+{
+  "product": [
+    {
+      "id": "102",
+      "productName": "pen",
+      "category": "cello pen",
+      "price": "1000",
+      "quantity": "10",
+      "suplier": "pentek",
+      "inStock": false,
+      "name": "new name"
+    },
+    {
+      "id": "101",
+      "productName": "parley",
+      "category": "sweet",
+      "price": "5",
+      "quantity": "10",
+      "suplier": "parley pvt",
+      "inStock": true
+    }
+  ]
+}
